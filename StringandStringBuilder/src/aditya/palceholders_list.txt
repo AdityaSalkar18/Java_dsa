@@ -1,0 +1,11 @@
+%s - String
+%d - Decimal integer
+%f - Floating point number
+%c - Character
+%b - Boolean
+%x - Hexadecimal integer
+%o - Octal integer
+%e - Scientific notation (for floating-point numbers)
+%g - General format (uses %e or %f depending on the value)
+%h - Hash code of the argument
+%n - Line separator
